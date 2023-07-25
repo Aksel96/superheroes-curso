@@ -4,3 +4,5 @@
 - Batman
 - Tony Stark
 - Hulk
+- Peter parker
+- Deadpool
